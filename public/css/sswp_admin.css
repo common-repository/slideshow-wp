@@ -1,0 +1,9 @@
+div#sswp_settings {
+    background: #149447;
+    color: #fff;
+}
+
+h2.hndle.ui-sortable-handle {
+    background: rgba(135, 202, 3, 0.41);
+    color: #100f0f;
+}

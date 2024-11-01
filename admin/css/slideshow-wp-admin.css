@@ -1,0 +1,28 @@
+div#sswp_settings {
+   background: #35754f;
+    color: #fff;
+	
+}
+
+div#sswp_settings h2.hndle.ui-sortable-handle {
+    background: rgba(116, 228, 208, 0.41);
+    color: #ffffff;
+}
+
+
+div#slide-show-images h2.hndle.ui-sortable-handle {
+    background: rgb(78, 162, 132);
+    color: #ffffff;
+}
+
+div#slide-show-images a.rwmb-add-media.button {
+    background: #ef5353;
+    border: 1px solid #e0ad38;
+    color: #fff;
+}
+
+
+div#sswp_settings p.description
+{
+color: #ffffff;	
+}
